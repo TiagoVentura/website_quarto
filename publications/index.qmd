@@ -1,0 +1,327 @@
+---
+title: "Publications"
+---
+
+::: {.pub-entry}
+### Misinformation Beyond Traditional Feeds: Evidence from a WhatsApp Deactivation Experiment in Brazil
+::: {.pub-authors}
+Tiago Ventura, [Rajeshwari Majumdar](https://r-majumdar.github.io/){target="_blank"}, [Jonathan Nagler](https://as.nyu.edu/faculty/jonathan-nagler.html){target="_blank"}, [Joshua A. Tucker](https://wp.nyu.edu/fas-joshuatucker/){target="_blank"}
+:::
+::: {.pub-venue}
+The Journal of Politics, 2025
+:::
+::: {.pub-links}
+[PDF](https://www.journals.uchicago.edu/doi/10.1086/737172){target="_blank"}
+[Pre-Registration](https://osf.io/qxk9b){target="_blank"}
+[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FWHDPY){target="_blank"}
+[Cite](../files/bib/ventura2025whatsapp.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+Most advanced democracies associate misinformation with feed-based platforms (Twitter, Facebook); but Global South countries experience misinformation via messaging apps like WhatsApp. We deploy a multimedia deactivation experiment testing misinformation exposure reduction on WhatsApp before the 2022 Brazil Presidential election. Our intervention significantly reduced false rumors recall. Consistent with mass media minimal effects theories, short-term information environment change didn't significantly alter belief accuracy, political polarization, or well-being.
+</details>
+:::
+
+::: {.pub-entry}
+### Survey Professionalism: New Evidence from Web Browsing Data
+::: {.pub-authors}
+[Bernhard Clemm von Hohenberg](https://bernhardclemm.com/){target="_blank"}, Tiago Ventura, [Jonathan Nagler](https://as.nyu.edu/faculty/jonathan-nagler.html){target="_blank"}, [Ericka Menchen-Trevino](https://erickaakcire.github.io/){target="_blank"}, [Magdalena Wojcieszak](https://communication.ucdavis.edu/people/magdalena-wojcieszak){target="_blank"}
+:::
+::: {.pub-venue}
+Political Analysis, 2025
+:::
+::: {.pub-links}
+[PDF](https://www.cambridge.org/core/journals/political-analysis/article/survey-professionalism-new-evidence-from-web-browsing-data/552625B9C6C5F32BA1DD69435043C184#article){target="_blank"}
+[Preprint](https://osf.io/preprints/osf/jxdc8_v1){target="_blank"}
+[Replication Materials](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/PY8COU){target="_blank"}
+[Cite](../files/bib/clemm2025professional.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+Online panels are important for political science research, but panelist compensation incentivizes "survey professionals" raising data quality concerns. We explore three US samples donating browsing data via Lucid, YouGov, Facebook (n=3,886). Survey professionalism is common but varies: conservatively 1.7% Facebook, 7.9% YouGov, 34.3% Lucid identified as professionals. Evidence professionals produce lower quality is limited: no systematic demographic/political differences from non-professionals; no more response instability. They are more likely to speed, straightline, and attempt to repeat questionnaires. We conclude professionals don't distort research inferences despite warranted concerns.
+</details>
+:::
+
+::: {.pub-entry}
+### Keep Your Promises, Even When Your Peers Do Not: A Survey Experiment on the Influence of Social Media on Trust
+::: {.pub-authors}
+[Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, [Carlos Scartascini](https://www.cscartascini.org/){target="_blank"}, Tiago Ventura
+:::
+::: {.pub-venue}
+Journal of Information, Technology and Politics, 2025
+:::
+::: {.pub-links}
+[PDF](https://www.tandfonline.com/doi/full/10.1080/19331681.2025.2502503){target="_blank"}
+[Pre-Registration](https://osf.io/24khj/){target="_blank"}
+[Cite](../files/bib/aruguete2025trust.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+Two survey experiments (~2,300 respondents each) in Brazil and Mexico measuring the effect of partisan/polarizing social media messages on political trust and trustworthiness using a modified trust game. Results show a statistically significant decline in trust among users exposed to polarizing messages (belief others won't fulfill pledges) with null effect on trustworthiness (we keep our pledges). The decline is larger if respondents actively like, share, or comment on the message, highlighting active engagement as a mediator in trust diminishment.
+</details>
+:::
+
+::: {.pub-entry}
+### The Fact-Checking Dilemma: Fact-Checking Increases the Reputation of the Fact-Checker but Creates Perceptions of Ideological Bias
+::: {.pub-authors}
+Tiago Ventura, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, [Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}
+:::
+::: {.pub-venue}
+Research & Politics, 2025
+:::
+::: {.pub-links}
+[PDF](https://journals.sagepub.com/doi/10.1177/20531680251323120){target="_blank"}
+[Pre-Registration](https://osf.io/qxk9b){target="_blank"}
+[Replication Materials](https://github.com/TiagoVentura/replication_RAP_ACV_Factchecking){target="_blank"}
+[Cite](../files/bib/ventura2025factchecking.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+Pre-registered survey experiment during the 2021 mid-term Argentina election when COVID-19 was polarizing (n=5,757). We exposed respondents to real tweets with COVID-19 case numbers followed by fact-checking adjudications confirming or refuting. Pro-attitudinal messages increased the fact-checker's (Chequeado) quality rating and perceived ideological closeness. Counter-attitudinal messages also increase perceived quality with no ideology effect. Fact-checks are reputation-improving and non-backfiring. However, the intervention affects voter perception of the fact-checking organization's ideology.
+</details>
+:::
+
+::: {.pub-entry}
+### Voting for Law and Order: Evidence from a Survey Experiment in Mexico
+::: {.pub-authors}
+Tiago Ventura, [Sandra Ley](https://sandraley.net/){target="_blank"}, [Francisco Cantu](https://franciscocantu.github.io/){target="_blank"}
+:::
+::: {.pub-venue}
+Comparative Political Studies, 2024
+:::
+::: {.pub-links}
+[PDF](https://journals.sagepub.com/doi/full/10.1177/00104140231169035){target="_blank"}
+[Pre-Registration](https://osf.io/r7vah/){target="_blank"}
+[Replication Materials](https://github.com/TiagoVentura/law_and_order_mexico_CPS){target="_blank"}
+[Cite](../files/bib/ventura2024laworder.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+Examines the demand-and-supply dynamic of security policies via two informational shortcuts: personal violence experiences and candidates' profiles. We test our argument via a survey experiment in Mexico modeling voters' support for candidates with various security proposals and use recent network model developments to measure crime exposure effects. We find higher crime victimization is associated with support for only some iron-fist policies. Results show null partisan advantage effects but reveal non-partisan heuristics (candidate professional experience) play a role in security policy preferences.
+</details>
+:::
+
+::: {.pub-entry}
+### Framing Fact-Checks as a "Confirmation" Increases Engagement with Corrections of Misinformation: A Four-Country Study
+::: {.pub-authors}
+[Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}, Flavia Batista, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, Matias Guizzo-Altube, [Carlos Scartascini](https://www.cscartascini.org/){target="_blank"}, Tiago Ventura
+:::
+::: {.pub-venue}
+Nature: Scientific Reports, 2024
+:::
+::: {.pub-links}
+[PDF](https://www.nature.com/articles/s41598-024-53337-0){target="_blank"}
+[Cite](../files/bib/aruguete2024vaccines.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+Four-country survey experiment assessing the influence of confirmation/refutation frames on engagement with online fact-checks. Respondents randomly received semantically identical content affirming accurate information or refuting misinformation. Despite semantic equivalence, confirmation frames elicit higher engagement and reduce self-reported negative emotions related to polarization. Crucial for designing policy interventions to amplify fact-check exposure and reduce affective polarization.
+</details>
+:::
+
+::: {.pub-entry}
+### Training Computational Social Science PhD Students for Academic and Non-Academic Careers
+::: {.pub-authors}
+[Aniket Kesari](https://www.aniketkesari.com/){target="_blank"}, Jae Kim, [Sono Shah](https://www.sonoshah.com/){target="_blank"}, Taylor Brown, Tina Law, Tiago Ventura
+:::
+::: {.pub-venue}
+PS: Political Science & Politics, 2023
+:::
+::: {.pub-links}
+[PDF](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/training-computational-social-science-phd-students-for-academic-and-nonacademic-careers/1455690939833B9FFCAC664D4E412057){target="_blank"}
+[Cite](../files/bib/kesari2023pedagogy.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+A guide to CSS training for PhD students based on the literature and collective working experiences. We contend students should supplement traditional training with CSS training in three core areas: (1) learning data science skills, (2) building a portfolio using data science for social science questions, (3) connecting with computational social scientists. We also offer recommendations for departments and professional associations.
+</details>
+:::
+
+::: {.pub-entry}
+### Truth Be Told: Cognitive Moderators of Selective Sharing of Fact-Checks on Social Media
+::: {.pub-authors}
+[Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}, [Ingrid Bachmann](https://comunicaciones.uc.cl/facultad/personas/ingrid-bachmann-caceres/){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, Sebastian Valenzuela, Tiago Ventura
+:::
+::: {.pub-venue}
+New Media & Society, 2023
+:::
+::: {.pub-links}
+[PDF](https://journals.sagepub.com/doi/10.1177/14614448231193709){target="_blank"}
+[Replication Materials](https://github.com/TiagoVentura/truth_be_told_NMS){target="_blank"}
+[Cite](../files/bib/aruguete2023truthbetold.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+Survey experiment (2019 Argentina election) measuring the propensity to share corrections to political misinformation randomly confirming or challenging beliefs. We find evidence of selective sharing: individuals prefer sharing pro-attitudinal rather than counter-attitudinal fact-checks. The effect is conditioned by adjudication type; respondents report higher intent to share confirmations vs refutations. Findings supported with RDD analysis of Twitter data and additional experiments.
+</details>
+:::
+
+::: {.pub-entry}
+### Winning! Election Returns and Engagement in Social Media
+::: {.pub-authors}
+Tiago Ventura, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, [Silvio Waisbord](https://smpa.gwu.edu/silvio-waisbord){target="_blank"}, [Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}
+:::
+::: {.pub-venue}
+PLOS One, 2023
+:::
+::: {.pub-links}
+[PDF](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281475){target="_blank"}
+[Replication Materials](https://github.com/TiagoVentura/winning_plosone){target="_blank"}
+[Cite](../files/bib/ventura2023winning.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+Analyzes social media engagement when elections are adjudicated to one contending party. We extend models of political dialogue explaining differences in engagement (time-to-retweet) when users support the winner or losers. We show users supporting the winner are more engaged with lower time-to-retweet. RDD design with data from Argentina (2019), Brazil (2018), UK (2019), and US (2016).
+</details>
+:::
+
+::: {.pub-entry}
+### Network Activated Frames: Content Sharing and Perceived Polarization in Social Media
+::: {.pub-authors}
+[Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, Tiago Ventura
+:::
+::: {.pub-venue}
+Journal of Communication, 2022
+:::
+::: {.pub-links}
+[PDF](https://academic.oup.com/joc/advance-article/doi/10.1093/joc/jqac035/6767335?searchresult=1#377639098){target="_blank"}
+[Replication Materials](https://github.com/TiagoVentura/Network_Activated_Frames_JoC){target="_blank"}
+[Cite](../files/bib/aruguete2022naf.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+Describes how the sharing behavior of interconnected users alters the content frequencies observed by peers. We label this "Network Activated Frames (NAF)" and test its mechanisms with an original image-based conjoint design replicating network activation in three surveys. Results show partisans share more content than non-partisans, and preferences become over-represented. A network of peers with cross-cutting ideological preferences amplifies disproportionate partisan frames. Implemented in Argentina, Brazil, and Mexico.
+</details>
+:::
+
+::: {.pub-entry}
+### News by Popular Demand: Ideology, Reputation, and Issue Attention in Social Media News Sharing
+::: {.pub-authors}
+[Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, Tiago Ventura
+:::
+::: {.pub-venue}
+International Journal of Press/Politics, 2021
+:::
+::: {.pub-links}
+[PDF](https://journals.sagepub.com/doi/metrics/10.1177/19401612211057068){target="_blank"}
+[Replication Materials](https://github.com/TiagoVentura/News_by_popular_demand_IJPP){target="_blank"}
+[Cite](../files/bib/aruguete2021nbpd.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+Retrieves measures of ideological congruence, issue salience, and media reputation explaining news sharing in social media. We describe how our proposed model connects to the news sharing literature. We show that if ideology and salience correlate, ideologues' preferences become overrepresented in observational data causing heightened polarization perceptions. Tests with data from Brazil, Argentina, and the US.
+</details>
+:::
+
+::: {.pub-entry}
+### The Effect of Streaming Chat on Perceptions of Debates
+::: {.pub-authors}
+[Victoria Asbury](https://victoriaasbury.com/){target="_blank"}, [Keng-Chi Chang](https://kengchichang.com/){target="_blank"}, [Katherine McCabe](https://katherinetmccabe.com/){target="_blank"}, [Kevin Munger](https://kmunger.github.io/){target="_blank"}, Tiago Ventura
+:::
+::: {.pub-venue}
+Journal of Communication, 2021
+:::
+::: {.pub-links}
+[PDF](https://academic.oup.com/joc/article/71/6/947/6415947?searchresult=1){target="_blank"}
+[Pre-Registration](https://osf.io/hc9fz/){target="_blank"}
+[Slides](../files/ACMMV_slides.pdf){target="_blank"}
+[Cite](../files/bib/asbury2021streaming.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+Field experiment during the September 2019 Democratic Primary Debate. Subjects were assigned to view the debate with or without streaming chatboxes on ABC (no chatbox), FiveThirtyEight (expert chat), and Facebook (social chat). Democratic subjects in the Facebook chat condition reported lower affect towards Democrats and a worse viewing experience.
+</details>
+:::
+
+::: {.pub-entry}
+### Connective Effervescence and Streaming Chat During Political Debates
+::: {.pub-authors}
+Tiago Ventura, [Kevin Munger](https://kmunger.github.io/){target="_blank"}, [Katherine McCabe](https://katherinetmccabe.com/){target="_blank"}, [Keng-Chi Chang](https://kengchichang.com/){target="_blank"}
+:::
+::: {.pub-venue}
+Journal of Quantitative Description: Digital Media, 2021
+:::
+::: {.pub-links}
+[PDF](https://journalqd.org/article/view/2573/1820){target="_blank"}
+[Cite](../files/bib/ventura2021effervescence.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+Examines large samples of comments in social chat feeds during livestreamed 2020 US presidential and vice-presidential debates on ABC News, NBC News, and Fox News Facebook pages. We quantify quality features of political discussion. Results consistent with the quasi-anonymous constrained chat nature: comments are generally short, include substantial toxicity and insults, and differ significantly across platforms. Underscores the importance of studying streaming chat as a potential influence source on political attitudes and behavior.
+</details>
+:::
+
+::: {.pub-entry}
+### Partisan Cues and Perceived Risks: The Effect of Partisan Social Media Frames During the Covid-19 Crisis in Mexico
+::: {.pub-authors}
+[Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, [Francisco Cantu](https://franciscocantu.github.io/){target="_blank"}, [Sandra Ley](https://sandraley.net/){target="_blank"}, [Carlos Scartascini](https://www.cscartascini.org/){target="_blank"}, Tiago Ventura
+:::
+::: {.pub-venue}
+Journal of Elections, Public Opinion and Parties, 2021
+:::
+::: {.pub-links}
+[PDF](../files/Calvo_Ventura_Covid_Social_Media.pdf){target="_blank"}
+[Pre-Registration](https://osf.io/9htsu){target="_blank"}
+[Cite](../files/bib/aruguete2021covid.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+Survey experiment evaluating effects of social media exposure on health and job risk perceptions during COVID-19 in Mexico. A framing experiment with positive/negative partisan messages shows respondents are sensitive to negative frames regardless of messenger color; incumbent supporters deflect government responsibility when exposed to opposition negative frames.
+</details>
+:::
+
+::: {.pub-entry}
+### Do Mayors Matter? Reverse Coattails on Congressional Elections in Brazil
+::: {.pub-authors}
+Tiago Ventura
+:::
+::: {.pub-venue}
+Electoral Studies, 2020
+:::
+::: {.pub-links}
+[PDF](https://www.sciencedirect.com/science/article/pii/S0261379420301219?dgcid=author){target="_blank"}
+[Replication Materials](https://github.com/TiagoVentura/ventura_jels_2021){target="_blank"}
+[Cite](../files/bib/ventura2020mayors.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+In federal democracies, parties invest in local politics to improve upper-level performance. Uses the reverse coattails concept to investigate the effects of winning local elections on national electoral dynamics in Brazil. RDD shows parties boost national performance by earning more votes on House elections in districts where members control local offices. Discusses pork access controlled by co-partisan House members and mechanical information gains. Uses Bayesian LASSO to address RDD data sparsity; demonstrates pro-large party bias on coattail effects.
+</details>
+:::
+
+::: {.pub-entry}
+### Will I Get Covid? Partisanship, Social Media Frames, and Perceptions of Health Risk in Brazil
+::: {.pub-authors}
+[Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, Tiago Ventura
+:::
+::: {.pub-venue}
+Latin America Politics and Society, 2020
+:::
+::: {.pub-links}
+[Pre-Registration](https://osf.io/gjcvn/){target="_blank"}
+[Replication Materials](https://github.com/TiagoVentura/Calvo_Ventura_LAPS_2021){target="_blank"}
+[Cite](../files/bib/calvo2020covid.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+Survey with embedded social media experiment during the early COVID-19 pandemic in Brazil. Descriptive results show pro-government and opposition partisans report different health and job risk expectations; job/health policy became wedge issues. Exploits survey recruitment random variation to show Presidential speech effects on TV on risk perceptions and partisanship moderation. Framing experiment models cognitive mechanisms driving partisan differences in health risk and job security perceptions during the COVID crisis.
+</details>
+:::
+
+::: {.pub-entry}
+### Polarization, News Sharing, and Gatekeeping: A Study of the Bolsonaro Election
+::: {.pub-authors}
+[Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, Tiago Ventura
+:::
+::: {.pub-venue}
+Digital Journalism, 2020
+:::
+::: {.pub-links}
+[PDF](https://www.tandfonline.com/doi/abs/10.1080/21670811.2020.1852094){target="_blank"}
+[Cite](../files/bib/aruguete2020bolsonaro.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+Examines how news sharing changes gatekeeping preferences of news organizations. We model users' news sharing behavior using Twitter data and test using data from the 2018 Brazil Bolsonaro election, examining if polarized users polarize news organizations further.
+</details>
+:::
+
+::: {.pub-entry}
+### The Workers' Party and Participatory Institutions: The Influence of Intra-party Dynamics in the Adoption of Participatory Budgeting
+::: {.pub-authors}
+[Fabiano Santos](http://www.iesp.uerj.br/en/docentes/fabiano-guilherme-mendes-santos/){target="_blank"}, Talita Tanscheit, Tiago Ventura
+:::
+::: {.pub-venue}
+Dados, 2020
+:::
+::: {.pub-links}
+[PDF](../files/STV_PT_E_OP.pdf){target="_blank"}
+[Cite](../files/bib/santos2020pt.bib)
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+Examines how internal dynamics of the Brazilian Workers' Party (PT) influences the adoption of participatory public policies by municipal administrations. Analyzes how party internal factions interfere with participatory budget adoption. Hypothesis: adoption becomes more likely when left-wing factions have a stronger presence. Tests with logistic regression models (2005-2012).
+</details>
+:::

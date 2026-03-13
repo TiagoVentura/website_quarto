@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - "files/**"
+    - "files/bib/**"
+
+website:
+  title: "Tiago Ventura"
+  navbar:
+    background: light
+    foreground: dark
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+      - text: "Work in Progress"
+        href: work-in-progress/index.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: files/cv2.pdf
+  page-footer:
+    center: "&copy; 2026 Tiago Ventura"
+    background: "#2c3e50"
+  google-analytics: "G-NC4JB8T01M"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    css: styles.css
+    toc: false
+    grid:
+      body-width: 1140px
+      sidebar-width: 0px
+      margin-width: 0px

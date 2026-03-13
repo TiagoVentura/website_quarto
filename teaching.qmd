@@ -1,0 +1,11 @@
+---
+title: "Teaching"
+---
+
+## Courses
+
+- [**Data Science I: Foundations**](https://tiagoventura.github.io/ppol5203/) -- Graduate Course at Data Science and Public Policy Program, McCourt School, Georgetown University -- Fall 2023, Fall 2024, Fall 2025
+
+- [**Text-As-Data: Computational Linguistics**](https://tiagoventura.github.io/PPOL_6801/) -- Graduate Course at Data Science and Public Policy Program, McCourt School, Georgetown University -- Spring 2023, Fall 2025
+
+- [**Introduction to Computational Social Science**](https://fgvintrocss.netlify.app/) -- Undergraduate Seminar at FGV-CPDOC, 2021
