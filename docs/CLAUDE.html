@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Tiago Ventura - Teaching</title>
+<title>Tiago Ventura – claude</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -103,7 +137,7 @@ gtag('config', 'G-NC4JB8T01M', { 'anonymize_ip': true});
  <span class="menu-text">Work in Progress</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./teaching.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./teaching.html" rel="" target="">
  <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
@@ -125,32 +159,41 @@ gtag('config', 'G-NC4JB8T01M', { 'anonymize_ip': true});
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Teaching</h1>
-</div>
 
 
+<section id="claude.md" class="level1">
+<h1>CLAUDE.md</h1>
+<p>This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.</p>
+<section id="project-overview" class="level2">
+<h2 class="anchored" data-anchor-id="project-overview">Project Overview</h2>
+<p>Academic personal website for Tiago Ventura, built with Quarto. Recently migrated from Hugo Academic. Deployed to GitHub Pages via the <code>docs/</code> output directory.</p>
+</section>
+<section id="build-commands" class="level2">
+<h2 class="anchored" data-anchor-id="build-commands">Build Commands</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> render          <span class="co"># Build the full site (output goes to docs/)</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> preview         <span class="co"># Start local dev server with live reload</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> publish         <span class="co"># Publish to GitHub Pages</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>There is no Makefile, package.json, or custom build scripts.</p>
+</section>
+<section id="architecture" class="level2">
+<h2 class="anchored" data-anchor-id="architecture">Architecture</h2>
+<p><strong>Configuration:</strong> <code>_quarto.yml</code> defines the site structure, navbar, footer, theme (cosmo + custom SCSS), Google Analytics, and output directory (<code>docs/</code>).</p>
+<p><strong>Content pages (4 total):</strong> - <code>index.qmd</code> — Home/about page using Quarto’s <code>trestles</code> about template - <code>publications/index.qmd</code> — Full publication list with collapsible abstracts - <code>work-in-progress/index.qmd</code> — Working papers with status badges - <code>teaching.qmd</code> — Course listings</p>
+<p><strong>Styling:</strong> <code>styles.scss</code> provides the main custom theme (Lato font, <code>#041E42</code> primary color). <code>styles.css</code> has additional overrides. Both are referenced in <code>_quarto.yml</code>.</p>
+<p><strong>Static files:</strong> <code>files/</code> contains PDFs (papers, CV) and <code>files/bib/</code> has BibTeX citation files. These are declared as project resources in <code>_quarto.yml</code>.</p>
+</section>
+<section id="content-conventions" class="level2">
+<h2 class="anchored" data-anchor-id="content-conventions">Content Conventions</h2>
+<p>Publications and WIP entries use custom Quarto div classes for structured layout: - <code>:::{.pub-entry}</code>, <code>:::{.pub-authors}</code>, <code>:::{.pub-venue}</code>, <code>:::{.pub-links}</code>, <code>:::{.pub-abstract}</code> for publications - <code>:::{.wip-entry}</code>, <code>:::{.wip-status}</code>, <code>:::{.wip-authors}</code> for work-in-progress</p>
+<p>Collapsible abstracts use <code>&lt;details&gt;</code>/<code>&lt;summary&gt;</code> HTML inside <code>:::{.pub-abstract-toggle}</code> divs.</p>
+<p>External links use <code>{target="_blank"}</code> attribute. Bibliography files follow the pattern <code>files/bib/[citation-key].bib</code>.</p>
+</section>
+<section id="deployment" class="level2">
+<h2 class="anchored" data-anchor-id="deployment">Deployment</h2>
+<p>The site builds to <code>docs/</code> and is served via GitHub Pages. The <code>.nojekyll</code> file in the root tells GitHub Pages to skip Jekyll processing.</p>
 
-<div class="quarto-title-meta">
 
-    
-  
-    
-  </div>
-  
-
-</header>
-
-<section id="courses" class="level2">
-<h2 class="anchored" data-anchor-id="courses">Courses</h2>
-<ul>
-<li><p><a href="https://tiagoventura.github.io/ppol5203/"><strong>Data Science I: Foundations</strong></a> – Graduate Course at Data Science and Public Policy Program, McCourt School, Georgetown University – Fall 2023, Fall 2024, Fall 2025</p></li>
-<li><p><a href="https://tiagoventura.github.io/PPOL_6801/"><strong>Text-As-Data: Computational Linguistics</strong></a> – Graduate Course at Data Science and Public Policy Program, McCourt School, Georgetown University – Spring 2023, Fall 2025</p></li>
-<li><p><a href="https://fgvintrocss.netlify.app/"><strong>Introduction to Computational Social Science</strong></a> – Undergraduate Seminar at FGV-CPDOC, 2021</p></li>
-</ul>
-
-
+</section>
 </section>
 
 </main> <!-- /main -->

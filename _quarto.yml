@@ -20,7 +20,7 @@ website:
       - text: "Teaching"
         href: teaching.qmd
       - text: "CV"
-        href: files/cv2.pdf
+        href: cv.pdf
   page-footer:
     center: "&copy; 2026 Tiago Ventura"
     background: "#2c3e50"
@@ -29,7 +29,7 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, styles.scss]
+      light: [flatly, styles.scss]
     css: styles.css
     toc: false
     grid:

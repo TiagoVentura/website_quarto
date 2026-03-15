@@ -1,6 +1,48 @@
 ---
 title: "Publications"
 ---
+::: {.pub-entry}
+### Testing the Causal Impact of Social Media Reduction Around the Globe
+::: {.pub-authors}
+
+Steven Rathje, Nejla Asimovic, Tiago Ventura, Sarah Mughal, Claire E. Robertson, Christopher Barrie, Joshua A. Tucker, Jay J. Van Bavel, and the Global Social Media Team
+
+:::
+::: {.pub-venue}
+Accepted in Principle at Nature, 2026
+:::
+::: {.pub-links}
+[Pre-Registered Report](https://osf.io/preprints/psyarxiv/ujtxa_v1){target="_blank"}
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+More than half of the world's population uses social media. There is widespread debate among the public, politicians, and academics about social media's impact on important outcomes, such as intergroup conflict and well-being. However, most prior research on the impact of social media relies on samples from the United States and Western Europe, despite emerging evidence suggesting that the impact of social media is likely to differ across the globe. Building on the results of pilot experiments from three countries (n = 894), we plan to conduct a global field experiment to measure the causal impact of reducing social media usage for two weeks across 23 countries (projected n > 8,000). We will then test how social media reduction influences four main outcomes: news knowledge, exposure to online hostility, intergroup attitudes, and well-being. We will also explore how the effects of social media reduction vary across world regions, focusing on three theoretically-informed country-level moderators: income level, inequality, and democratic strength. This large-scale, high-powered field experiment, and the global dataset resulting from it, will offer rare causal evidence to inform ongoing debates about the impact of social media and how it varies around the world.
+</details>
+:::
+
+::: {.pub-entry}
+### Comparing the Humanness of Machine-Generated and Human-Authored Text
+::: {.pub-authors}
+
+Autumn Toney-Wails, Leticia Bode, Tiago Ventura, Ethan Wilcox, and Lisa Singh.
+:::
+::: {.pub-venue}
+Forthcoming at ACM Computing Surveys, 2026
+:::
+::: {.pub-links}
+[PDF](){target="_blank"}
+:::
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+As chatbots have become more commonplace writing tools, a need exists to understand the breadth of research about the humanness
+of machine-generated text via techniques that extend beyond the traditional Turing Test, in both dialogue (e.g., conversing with a
+chatbot) and non-dialogue (e.g., reading a news article) scenarios. To fill this gap and support future work, we synthesize current
+literature that examines and identifies humanness features of written communication generated with the state-of-the-art generative
+pre-trained transformer language models, provide a working definition of humanness, propose a text-based humanness taxonomy
+based on linguistic properties, and identify current research gaps
+</details>
+:::
+
+
+
 
 ::: {.pub-entry}
 ### Misinformation Beyond Traditional Feeds: Evidence from a WhatsApp Deactivation Experiment in Brazil
@@ -15,6 +57,9 @@ The Journal of Politics, 2025
 [Pre-Registration](https://osf.io/qxk9b){target="_blank"}
 [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FWHDPY){target="_blank"}
 [Cite](../files/bib/ventura2025whatsapp.bib)
+:::
+::: {.pub-award}
+Winner, 2024 Paul Lazarsfeld Best Paper Award (Political Communication, APSA 2023) | Winner, 2024 Information Technology and Politics Award (APSA 2023) | Winner, 2024 Best Paper in Political Behavior (Brazilian Political Science Association) | Winner, 2024 Best Overall Paper (Brazilian Political Science Association)
 :::
 <details class="pub-abstract-toggle"><summary>Abstract</summary>
 Most advanced democracies associate misinformation with feed-based platforms (Twitter, Facebook); but Global South countries experience misinformation via messaging apps like WhatsApp. We deploy a multimedia deactivation experiment testing misinformation exposure reduction on WhatsApp before the 2022 Brazil Presidential election. Our intervention significantly reduced false rumors recall. Consistent with mass media minimal effects theories, short-term information environment change didn't significantly alter belief accuracy, political polarization, or well-being.
@@ -106,6 +151,7 @@ Nature: Scientific Reports, 2024
 :::
 ::: {.pub-links}
 [PDF](https://www.nature.com/articles/s41598-024-53337-0){target="_blank"}
+[Pre-Registration](https://osf.io/){target="_blank"}
 [Cite](../files/bib/aruguete2024vaccines.bib)
 :::
 <details class="pub-abstract-toggle"><summary>Abstract</summary>
@@ -140,7 +186,6 @@ New Media & Society, 2023
 :::
 ::: {.pub-links}
 [PDF](https://journals.sagepub.com/doi/10.1177/14614448231193709){target="_blank"}
-[Replication Materials](https://github.com/TiagoVentura/truth_be_told_NMS){target="_blank"}
 [Cite](../files/bib/aruguete2023truthbetold.bib)
 :::
 <details class="pub-abstract-toggle"><summary>Abstract</summary>
@@ -176,7 +221,6 @@ Journal of Communication, 2022
 :::
 ::: {.pub-links}
 [PDF](https://academic.oup.com/joc/advance-article/doi/10.1093/joc/jqac035/6767335?searchresult=1#377639098){target="_blank"}
-[Replication Materials](https://github.com/TiagoVentura/Network_Activated_Frames_JoC){target="_blank"}
 [Cite](../files/bib/aruguete2022naf.bib)
 :::
 <details class="pub-abstract-toggle"><summary>Abstract</summary>
@@ -269,6 +313,9 @@ Electoral Studies, 2020
 [Replication Materials](https://github.com/TiagoVentura/ventura_jels_2021){target="_blank"}
 [Cite](../files/bib/ventura2020mayors.bib)
 :::
+::: {.pub-award}
+Winner, Donald C. Piper Award for Best Graduate Student Research Paper, GVPT, University of Maryland
+:::
 <details class="pub-abstract-toggle"><summary>Abstract</summary>
 In federal democracies, parties invest in local politics to improve upper-level performance. Uses the reverse coattails concept to investigate the effects of winning local elections on national electoral dynamics in Brazil. RDD shows parties boost national performance by earning more votes on House elections in districts where members control local offices. Discusses pork access controlled by co-partisan House members and mechanical information gains. Uses Bayesian LASSO to address RDD data sparsity; demonstrates pro-large party bias on coattail effects.
 </details>
@@ -306,22 +353,5 @@ Digital Journalism, 2020
 :::
 <details class="pub-abstract-toggle"><summary>Abstract</summary>
 Examines how news sharing changes gatekeeping preferences of news organizations. We model users' news sharing behavior using Twitter data and test using data from the 2018 Brazil Bolsonaro election, examining if polarized users polarize news organizations further.
-</details>
-:::
-
-::: {.pub-entry}
-### The Workers' Party and Participatory Institutions: The Influence of Intra-party Dynamics in the Adoption of Participatory Budgeting
-::: {.pub-authors}
-[Fabiano Santos](http://www.iesp.uerj.br/en/docentes/fabiano-guilherme-mendes-santos/){target="_blank"}, Talita Tanscheit, Tiago Ventura
-:::
-::: {.pub-venue}
-Dados, 2020
-:::
-::: {.pub-links}
-[PDF](../files/STV_PT_E_OP.pdf){target="_blank"}
-[Cite](../files/bib/santos2020pt.bib)
-:::
-<details class="pub-abstract-toggle"><summary>Abstract</summary>
-Examines how internal dynamics of the Brazilian Workers' Party (PT) influences the adoption of participatory public policies by municipal administrations. Analyzes how party internal factions interfere with participatory budget adoption. Hypothesis: adoption becomes more likely when left-wing factions have a stronger presence. Tests with logistic regression models (2005-2012).
 </details>
 :::

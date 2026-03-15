@@ -1,11 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;0,700;1,400;1,700&family=Fira+Sans+Condensed:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 /*-- scss:defaults --*/
 
 $primary: #041E42;
 $link-color: #041E42;
 $navbar-bg: #f5f5f5;
-$font-family-sans-serif: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-family-sans-serif: "Fira Sans Condensed", sans-serif;
+$font-family-serif: "Barlow", sans-serif;
+$font-size-base: 1.1rem;
+$headings-font-weight: 700;
 
 /*-- scss:rules --*/
+
+// Body text uses Barlow, headings use Fira Sans Condensed (via $font-family-sans-serif)
+body {
+  font-family: "Barlow", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Fira Sans Condensed", sans-serif;
+}
 
 // Navbar styling — constrain to same width as body content so items align with page
 .navbar .navbar-container {
@@ -16,6 +30,13 @@ $font-family-sans-serif: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", 
 .navbar {
   font-size: 1.05rem;
   font-weight: 400;
+}
+
+// Page title separator line
+#title-block-header {
+  border-bottom: 1px solid $primary;
+  padding-bottom: 0.2rem;
+  margin-bottom: 0.5rem;
 }
 
 // About page profile
@@ -39,44 +60,50 @@ $font-family-sans-serif: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", 
   }
 }
 
-// Publication cards
+// Publication entries
 .pub-entry {
-  padding: 0.2rem 0;
-  border-bottom: 1px solid #eee;
+  padding: 0.25rem 0;
+  padding-left: 1.5rem;
+  border-bottom: 1px solid #ddd;
 
   &:last-child {
     border-bottom: none;
   }
 
   h3 {
-    font-size: 1.15rem;
-    margin-bottom: 0.3rem;
-    color: #041E42;
+    font-size: 1.1rem;
+    margin-bottom: 0.05rem;
+    color: $primary;
+    font-weight: 700;
   }
 
   .pub-authors {
     color: #555;
     font-size: 0.9rem;
-    margin-bottom: 0.2rem;
+    margin-bottom: 0.05rem;
+
+    p { margin-bottom: 0; }
   }
 
   .pub-venue {
     font-style: italic;
     color: #1a4a7a;
     font-size: 0.9rem;
-    margin-bottom: 0.2rem;
+    margin-bottom: 0.1rem;
+
+    p { margin-bottom: 0; }
   }
 
   .pub-links {
-    margin-top: 0.2rem;
+    margin-top: 0.1rem;
 
     a {
       display: inline-block;
-      padding: 0.25rem 0.6rem;
+      padding: 1px 5px;
       margin: 0.15rem 0.15rem 0.15rem 0;
-      font-size: 0.8rem;
+      font-size: 0.82rem;
       border: 1px solid #041E42;
-      border-radius: 0.25rem;
+      border-radius: 0.2rem;
       color: #041E42;
       text-decoration: none;
       transition: all 0.2s ease;
@@ -130,20 +157,22 @@ details.pub-abstract-toggle {
 
 // WIP entry styling
 .wip-entry {
-  padding: 0.2rem 0;
-  border-bottom: 1px solid #eee;
+  padding: 0.25rem 0;
+  padding-left: 1.5rem;
+  border-bottom: 1px solid #ddd;
 
   &:last-child {
     border-bottom: none;
   }
 
   h3 {
-    font-size: 1.15rem;
-    margin-bottom: 0.3rem;
-    color: #041E42;
+    font-size: 1.1rem;
+    margin-bottom: 0.05rem;
+    color: $primary;
+    font-weight: 700;
 
     a {
-      color: #041E42;
+      color: $primary;
       text-decoration: none;
 
       &:hover {
@@ -156,13 +185,29 @@ details.pub-abstract-toggle {
     font-style: italic;
     color: #e67e22;
     font-size: 0.9rem;
-    margin-bottom: 0.3rem;
+    margin-bottom: 0.05rem;
     font-weight: 600;
+
+    p { margin-bottom: 0; }
   }
 
   .wip-authors {
     color: #555;
     font-size: 0.9rem;
-    margin-bottom: 0.4rem;
+    margin-bottom: 0.1rem;
+
+    p { margin-bottom: 0; }
   }
+
+  .pub-links {
+    margin-top: 0.1rem;
+  }
+}
+
+// Award badges (shared across pub and wip entries)
+.pub-award {
+  font-size: 0.85rem;
+  color: #b8860b;
+  font-weight: 600;
+  margin-top: 0.3rem;
 }

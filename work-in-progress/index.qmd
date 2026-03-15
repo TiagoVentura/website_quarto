@@ -2,27 +2,6 @@
 title: "Work in Progress"
 ---
 
-::: {.wip-entry}
-### [Testing the Causal Impact of Social Media Reduction Around the Globe](https://osf.io/preprints/psyarxiv/ujtxa_v1){target="_blank"}
-
-::: {.wip-status}
-Stage 1 Registered Report Conditionally Accepted at Nature
-:::
-
-::: {.wip-authors}
-Led by Steven Rathje, Nejla Asimovic and Tiago Ventura. Co-authors: Sarah Mughal, Claire E. Robertson, Christopher Barrie, ...., Joshua A. Tucker, Jay J. Van Bavel.
-:::
-
-::: {.pub-links}
-[Preprint](https://osf.io/preprints/psyarxiv/ujtxa_v1){target="_blank"}
-:::
-
-<details class="pub-abstract-toggle"><summary>Abstract</summary>
-More than half of the world's population uses social media. There is widespread debate among the public, politicians, and academics about social media's impact on important outcomes, such as intergroup conflict and well-being. However, most prior research on the impact of social media relies on samples from the United States and Western Europe, despite emerging evidence suggesting that the impact of social media is likely to differ across the globe. Building on the results of pilot experiments from three countries (n = 894), we plan to conduct a global field experiment to measure the causal impact of reducing social media usage for two weeks across 23 countries (projected n > 8,000). We will then test how social media reduction influences four main outcomes: news knowledge, exposure to online hostility, intergroup attitudes, and well-being. We will also explore how the effects of social media reduction vary across world regions, focusing on three theoretically-informed country-level moderators: income level, inequality, and democratic strength. This large-scale, high-powered field experiment, and the global dataset resulting from it, will offer rare causal evidence to inform ongoing debates about the impact of social media and how it varies around the world.
-</details>
-:::
-
-::: {.wip-entry}
 ### [Reducing Social Media Usage During Elections: Evidence from a Multi-Country WhatsApp Deactivation Experiment](../files/MVLTT_multicountry2.pdf){target="_blank"}
 
 ::: {.wip-status}
@@ -35,6 +14,10 @@ Joint work with Rajeshwari Majumdar, Shelley Liu, Carolina Torreblanco, and Josh
 
 ::: {.pub-links}
 [PDF](../files/MVLTT_multicountry2.pdf){target="_blank"}
+:::
+
+::: {.pub-award}
+Winner, 2025 MPSA Best Paper Award in Political Behavior
 :::
 
 - Presented at APSA 2024
@@ -83,22 +66,6 @@ Joint work with Jim Bisbbe, Sarah Graham and Joshua A. Tucker.
 
 <details class="pub-abstract-toggle"><summary>Abstract</summary>
 Partisan motivations and repeated exposure are two dominant explanations for how individuals form beliefs about political misinformation. Yet, there is little research that integrates these processes, despite each pointing to different interventions to combat the spread of false information, especially in online information environments. In this paper, we situate both frameworks within a unified Bayesian model of belief formation and design survey experiments to explore several implications of this theoretical framework. We find that both partisan motivated reasoning and prior exposure ("illusory truth effects") manifest in our data, and that they exacerbate each other, painting a bleak picture of how the steady drumbeat of partisan-flavored misinformation online influences public beliefs. However, we also find that the duration of these biases attenuates sharply over time and that attaching warning labels to false information mitigates the manifestation of both cognitive biases. The findings suggest that partisan motivations dominate belief formation in political settings, with prior exposure to misinformation playing a secondary role. These results contribute to a deeper understanding of cognitive biases in political information processing and provide a structured way of thinking about how best to understand the phenomenon of online misinformation, shifting the focus from the role of mass-level beliefs for falsehoods to the role of political elites and partisan media spreading rumors.
-</details>
-:::
-
-::: {.wip-entry}
-### Comparing the Humanness of Machine-Generated and Human-Authored Text
-
-::: {.wip-status}
-Under Review at ACM Computing Surveys
-:::
-
-::: {.wip-authors}
-Led by Autumn Toney-Wails. Co-authors: Leticia Bode, Tiago Ventura, Ethan Wilcox, and Lisa Singh.
-:::
-
-<details class="pub-abstract-toggle"><summary>Abstract</summary>
-As chatbots have become more commonplace writing tools, a need exists to understand the breadth of research about the humanness of machine-generated text via techniques that extend beyond the traditional Turing Test, in both dialogue (e.g., conversing with a chatbot) and non-dialogue (e.g., reading a news article) scenarios. To fill this gap and support future work, we synthesize current literature that examines and identifies humanness features of written communication generated with the state-of-the-art generative pre-trained transformer language models, provide a working definition of humanness, propose a text-based humanness taxonomy based on linguistic properties, and identify current research gaps.
 </details>
 :::
 
