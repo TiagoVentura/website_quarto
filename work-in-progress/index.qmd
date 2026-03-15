@@ -2,6 +2,7 @@
 title: "Work in Progress"
 ---
 
+::: {.wip-entry}
 ### [Reducing Social Media Usage During Elections: Evidence from a Multi-Country WhatsApp Deactivation Experiment](../files/MVLTT_multicountry2.pdf){target="_blank"}
 
 ::: {.wip-status}
@@ -50,6 +51,26 @@ Social media is often blamed for the creation of echo chambers. However, these c
 :::
 
 ::: {.wip-entry}
+### Human-authored or AI-generated? Humans can usually tell the difference for political content on social media platforms
+
+::: {.wip-status}
+Under Review
+:::
+
+::: {.wip-authors}
+Joint work with Sejin Paik, Rebecca Ansell, Autumn Toney-Wails, Leticia Bode, and Lisa Singh.
+:::
+
+::: {.pub-links}
+[PDF](../files/humanness_paper_tw_yt.pdf){target="_blank"}
+:::
+
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+This study employs a set of behavioral experiments to examine how individuals perceive the humanness of social media posts about the 2024 U.S. presidential debate between Kamala Harris and Donald Trump. Posts presented in the experiment were authored either by humans or chatbots, varying the large language model (LLMs), the model architecture, the social media platform, and the political personas. Participants judged the randomly-paired posts on which they perceived to be AI-generated. Overall, human-authored posts were judged more human than AI outputs, but this separation narrowed for newer LLMs, with Llama 3.3 surpassing human-like judgments. The social media platform also mattered, with participants distinguishing human from AI on most platforms (YouTube, TikTok, Truth Social), but not on X/Twitter. Partisan identity also shaped evaluations, with Republican respondents more likely to view ideologically-aligned AI posts as human-authored. Our results indicate that audiences can still distinguish human from AI generated social media posts, but this ability weakens for newer LLMs, varies by platform, and reflects partisan bias.
+</details>
+:::
+
+::: {.wip-entry}
 ### [Understanding Beliefs in Misinformation: Repetition, Partisan Signals and Bayesian Processing](../files/ite.pdf){target="_blank"}
 
 ::: {.wip-status}
@@ -64,8 +85,52 @@ Joint work with Jim Bisbbe, Sarah Graham and Joshua A. Tucker.
 [PDF](../files/ite.pdf){target="_blank"}
 :::
 
+- Presented at APSA 2025
+
 <details class="pub-abstract-toggle"><summary>Abstract</summary>
 Partisan motivations and repeated exposure are two dominant explanations for how individuals form beliefs about political misinformation. Yet, there is little research that integrates these processes, despite each pointing to different interventions to combat the spread of false information, especially in online information environments. In this paper, we situate both frameworks within a unified Bayesian model of belief formation and design survey experiments to explore several implications of this theoretical framework. We find that both partisan motivated reasoning and prior exposure ("illusory truth effects") manifest in our data, and that they exacerbate each other, painting a bleak picture of how the steady drumbeat of partisan-flavored misinformation online influences public beliefs. However, we also find that the duration of these biases attenuates sharply over time and that attaching warning labels to false information mitigates the manifestation of both cognitive biases. The findings suggest that partisan motivations dominate belief formation in political settings, with prior exposure to misinformation playing a secondary role. These results contribute to a deeper understanding of cognitive biases in political information processing and provide a structured way of thinking about how best to understand the phenomenon of online misinformation, shifting the focus from the role of mass-level beliefs for falsehoods to the role of political elites and partisan media spreading rumors.
 </details>
 :::
 
+::: {.wip-entry}
+### Echo Chambers After the Ban: Political Information on X in Brazil
+
+::: {.wip-status}
+In preparation
+:::
+
+::: {.wip-authors}
+Joint work with Christopher Barrie, Margaret E. Roberts, Christopher Schwarz, and Joshua A. Tucker.
+:::
+
+- Presented at APSA 2025
+
+:::
+
+::: {.wip-entry}
+### Using Large Language Models and Text-Completion to Augment Web-Browsing Data
+
+::: {.wip-status}
+In preparation
+:::
+
+::: {.wip-authors}
+Joint work with Sebastian Vallejo and Patrick Wu.
+:::
+
+- Presented at APSA 2025
+
+:::
+
+::: {.wip-entry}
+### Criminal governance amid the COVID-19 pandemic in Mexico
+
+::: {.wip-status}
+Writing
+:::
+
+::: {.wip-authors}
+Joint work with Lucia Tiscornia and Sandra Ley.
+:::
+
+:::

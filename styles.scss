@@ -201,6 +201,24 @@ details.pub-abstract-toggle {
 
   .pub-links {
     margin-top: 0.1rem;
+
+    a {
+      display: inline-block;
+      padding: 1px 5px;
+      margin: 0.15rem 0.15rem 0.15rem 0;
+      font-size: 0.82rem;
+      border: 1px solid #041E42;
+      border-radius: 0.2rem;
+      color: #041E42;
+      text-decoration: none;
+      transition: all 0.2s ease;
+
+      &:hover {
+        background-color: #1a4a7a;
+        border-color: #1a4a7a;
+        color: white;
+      }
+    }
   }
 }
 
