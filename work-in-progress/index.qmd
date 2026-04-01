@@ -6,7 +6,7 @@ title: "Work in Progress"
 ### [Reducing Social Media Usage During Elections: Evidence from a Multi-Country WhatsApp Deactivation Experiment](../files/MVLTT_multicountry2.pdf){target="_blank"}
 
 ::: {.wip-status}
-Under Review
+Revise & Resubmit, AJPS
 :::
 
 ::: {.wip-authors}
@@ -71,6 +71,25 @@ This study employs a set of behavioral experiments to examine how individuals pe
 :::
 
 ::: {.wip-entry}
+### [The Partisan Effects of Social Media Bans](https://osf.io/preprints/socarxiv/4stfw_v1){target="_blank"}
+
+::: {.wip-status}
+Under Review
+:::
+
+::: {.wip-authors}
+Joint work with Christopher Barrie, Margaret E. Roberts, Christopher Schwarz, and Joshua A. Tucker.
+:::
+
+::: {.pub-links}
+[Preprint](https://osf.io/preprints/socarxiv/4stfw_v1){target="_blank"}
+:::
+
+- Presented at APSA 2025
+
+:::
+
+::: {.wip-entry}
 ### [Understanding Beliefs in Misinformation: Repetition, Partisan Signals and Bayesian Processing](../files/ite.pdf){target="_blank"}
 
 ::: {.wip-status}
@@ -90,21 +109,6 @@ Joint work with Jim Bisbbe, Sarah Graham and Joshua A. Tucker.
 <details class="pub-abstract-toggle"><summary>Abstract</summary>
 Partisan motivations and repeated exposure are two dominant explanations for how individuals form beliefs about political misinformation. Yet, there is little research that integrates these processes, despite each pointing to different interventions to combat the spread of false information, especially in online information environments. In this paper, we situate both frameworks within a unified Bayesian model of belief formation and design survey experiments to explore several implications of this theoretical framework. We find that both partisan motivated reasoning and prior exposure ("illusory truth effects") manifest in our data, and that they exacerbate each other, painting a bleak picture of how the steady drumbeat of partisan-flavored misinformation online influences public beliefs. However, we also find that the duration of these biases attenuates sharply over time and that attaching warning labels to false information mitigates the manifestation of both cognitive biases. The findings suggest that partisan motivations dominate belief formation in political settings, with prior exposure to misinformation playing a secondary role. These results contribute to a deeper understanding of cognitive biases in political information processing and provide a structured way of thinking about how best to understand the phenomenon of online misinformation, shifting the focus from the role of mass-level beliefs for falsehoods to the role of political elites and partisan media spreading rumors.
 </details>
-:::
-
-::: {.wip-entry}
-### Echo Chambers After the Ban: Political Information on X in Brazil
-
-::: {.wip-status}
-In preparation
-:::
-
-::: {.wip-authors}
-Joint work with Christopher Barrie, Margaret E. Roberts, Christopher Schwarz, and Joshua A. Tucker.
-:::
-
-- Presented at APSA 2025
-
 :::
 
 ::: {.wip-entry}
