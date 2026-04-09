@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/tb186/Dropbox/website_quarto -maxdepth 1 -name \".*\" -type f 2>/dev/null | head -20)",
+      "Bash(git -C /Users/tb186/Dropbox/website_quarto log --oneline --max-count=10)",
+      "Bash(find /Users/tb186/Dropbox/website_quarto -type f -name \"*.sh\" -o -name \"Makefile\" -o -name \"*.yml\" -o -name \"*.yaml\" 2>/dev/null | grep -v \".git\" | head -20)",
+      "Bash(find /Users/tb186/Dropbox/website_quarto -maxdepth 3 -type f \\\\\\( -name \"*.qmd\" -o -name \"*.Rmd\" -o -name \"*.html\" \\\\\\) 2>/dev/null | head -30)",
+      "Bash(mdfind \"kMDItemDisplayName == 'pdflatex'\")",
+      "Read(//Library/TeX/texbin/**)",
+      "Read(//usr/local/**)",
+      "Read(//opt/homebrew/bin/**)"
+    ]
+  }
+}

@@ -29,6 +29,29 @@ Recent research has investigated how social media platforms may spread misinform
 :::
 
 ::: {.wip-entry}
+
+::: {.wip-entry}
+### Human-authored or AI-generated? Humans can usually tell the difference for political content on social media platforms
+
+::: {.wip-status}
+Revise & Resubmit, PNAS
+:::
+
+::: {.wip-authors}
+Joint work with Sejin Paik, Rebecca Ansell, Autumn Toney-Wails, Leticia Bode, and Lisa Singh.
+:::
+
+::: {.pub-links}
+[PDF](../files/humanness_paper_tw_yt.pdf){target="_blank"}
+:::
+
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+This study employs a set of behavioral experiments to examine how individuals perceive the humanness of social media posts about the 2024 U.S. presidential debate between Kamala Harris and Donald Trump. Posts presented in the experiment were authored either by humans or chatbots, varying the large language model (LLMs), the model architecture, the social media platform, and the political personas. Participants judged the randomly-paired posts on which they perceived to be AI-generated. Overall, human-authored posts were judged more human than AI outputs, but this separation narrowed for newer LLMs, with Llama 3.3 surpassing human-like judgments. The social media platform also mattered, with participants distinguishing human from AI on most platforms (YouTube, TikTok, Truth Social), but not on X/Twitter. Partisan identity also shaped evaluations, with Republican respondents more likely to view ideologically-aligned AI posts as human-authored. Our results indicate that audiences can still distinguish human from AI generated social media posts, but this ability weakens for newer LLMs, varies by platform, and reflects partisan bias.
+</details>
+:::
+
+::: {.wip-entry}
+
 ### [The Relationship Between Offline Partisan Geographical Segregation and Online Partisan Segregation](https://arxiv.org/html/2512.07121v1){target="_blank"}
 
 ::: {.wip-status}
@@ -50,27 +73,6 @@ Social media is often blamed for the creation of echo chambers. However, these c
 </details>
 :::
 
-::: {.wip-entry}
-### Human-authored or AI-generated? Humans can usually tell the difference for political content on social media platforms
-
-::: {.wip-status}
-Under Review
-:::
-
-::: {.wip-authors}
-Joint work with Sejin Paik, Rebecca Ansell, Autumn Toney-Wails, Leticia Bode, and Lisa Singh.
-:::
-
-::: {.pub-links}
-[PDF](../files/humanness_paper_tw_yt.pdf){target="_blank"}
-:::
-
-<details class="pub-abstract-toggle"><summary>Abstract</summary>
-This study employs a set of behavioral experiments to examine how individuals perceive the humanness of social media posts about the 2024 U.S. presidential debate between Kamala Harris and Donald Trump. Posts presented in the experiment were authored either by humans or chatbots, varying the large language model (LLMs), the model architecture, the social media platform, and the political personas. Participants judged the randomly-paired posts on which they perceived to be AI-generated. Overall, human-authored posts were judged more human than AI outputs, but this separation narrowed for newer LLMs, with Llama 3.3 surpassing human-like judgments. The social media platform also mattered, with participants distinguishing human from AI on most platforms (YouTube, TikTok, Truth Social), but not on X/Twitter. Partisan identity also shaped evaluations, with Republican respondents more likely to view ideologically-aligned AI posts as human-authored. Our results indicate that audiences can still distinguish human from AI generated social media posts, but this ability weakens for newer LLMs, varies by platform, and reflects partisan bias.
-</details>
-:::
-
-::: {.wip-entry}
 ### [The Partisan Effects of Social Media Bans](https://osf.io/preprints/socarxiv/4stfw_v1){target="_blank"}
 
 ::: {.wip-status}
