@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.16)  9 APR 2026 18:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.16)  10 APR 2026 18:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -257,85 +257,85 @@ Overfull \hbox (28.0532pt too wide) in paragraph at lines 114--119
 [][] 
  []
 
-
-Overfull \hbox (35.22092pt too wide) in paragraph at lines 169--170
-[]\OT1/cmr/bx/n/10.95 Ventura, Tiago\OT1/cmr/m/n/10.95 *; Ma-jum-dar, Ra-jesh-wari; Na-gler, Jonathan; Tucker, Joshua A., 2025 [][]Mis-in-for-ma-tion
- []
-
 [1
 
 {/Users/tb186/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (13.11656pt too wide) in paragraph at lines 174--175
+Overfull \hbox (35.22092pt too wide) in paragraph at lines 181--182
+[]\OT1/cmr/bx/n/10.95 Ventura, Tiago\OT1/cmr/m/n/10.95 *; Ma-jum-dar, Ra-jesh-wari; Na-gler, Jonathan; Tucker, Joshua A., 2025 [][]Mis-in-for-ma-tion
+ []
+
+
+Overfull \hbox (13.11656pt too wide) in paragraph at lines 186--187
 []| \OT1/cmr/m/it/10.95 Win-ner of the 2024 Best Over-all Pa-per pre-sented at the Brazil-ian Po-lit-i-cal Sci-ence As-so-ci-a-tion
  []
 
 
-Overfull \hbox (26.9066pt too wide) in paragraph at lines 184--185
+Overfull \hbox (26.9066pt too wide) in paragraph at lines 196--197
 \OT1/cmr/m/n/10.95 from a Sur-vey Ex-per-i-ment in Mex-ico[][], \OT1/cmr/m/it/10.95 Com-par-a-tive Po-lit-i-cal Stud-ies \OT1/cmr/m/n/10.95 57(4), pp.551-583. *[first-author] 
  []
 
-
-Overfull \hbox (13.82791pt too wide) in paragraph at lines 200--201
+[2]
+Overfull \hbox (13.82791pt too wide) in paragraph at lines 212--213
 []\OT1/cmr/m/n/10.95 Aruguete, Na-talia; Calvo, Ernesto; Cantu, Fran-cisco; Ley, San-dra; \OT1/cmr/bx/n/10.95 Ven-tura, Tiago\OT1/cmr/m/n/10.95 *; Scar-tascini,
  []
 
 
-Overfull \hbox (2.0826pt too wide) in paragraph at lines 200--201
+Overfull \hbox (2.0826pt too wide) in paragraph at lines 212--213
 \OT1/cmr/m/n/10.95 dur-ing the Covid-19 cri-sis in Mex-ico[][], \OT1/cmr/m/it/10.95 Jour-nal of Elec-tions, Pub-lic Opin-ion and Par-ties \OT1/cmr/m/n/10.95 31(sup1),
  []
 
 
-Overfull \hbox (8.25426pt too wide) in paragraph at lines 202--204
+Overfull \hbox (8.25426pt too wide) in paragraph at lines 214--216
 \OT1/cmr/m/n/10.95 Ef-fer-ves-cence and Stream-ing Chat Dur-ing Po-lit-i-cal De-bates[][], \OT1/cmr/m/it/10.95 Jour-nal of Quan-ti-ta-tive De-scrip-tion,
  []
 
-[2]
-Overfull \hbox (17.80363pt too wide) in paragraph at lines 205--206
+
+Overfull \hbox (17.80363pt too wide) in paragraph at lines 217--218
 \OT1/cmr/m/n/10.95 Frames, and Per-cep-tions of Health Risk in Brazil[][], \OT1/cmr/m/it/10.95 Latin Amer-i-can Pol-i-tics and So-ci-ety, 1-26\OT1/cmr/m/n/10.95 .*[equal
  []
 
 
-Overfull \hbox (4.55199pt too wide) in paragraph at lines 223--224
+Overfull \hbox (4.55199pt too wide) in paragraph at lines 234--235
 \OT1/cmr/bx/n/10.95 Re-duc-ing What-sApp Us-age to Mit-i-gate Mis-in-for-ma-tion Ex-po-sure Dur-ing Elec-tions:
  []
 
 
-Overfull \hbox (6.53802pt too wide) in paragraph at lines 230--231
+Overfull \hbox (6.53802pt too wide) in paragraph at lines 240--241
 []\OT1/cmr/m/n/10.95 Megan Brown, Tiago Ven-tura, Joshua A. Tucker, Jonathan Na-gler. [][]\OT1/cmr/bx/n/10.95 The re-la-tion-ship be-tween
  []
 
-
+[3]
 Overfull \hbox (9.03764pt too wide) in paragraph at lines 248--249
 []\OT1/cmr/m/n/10.95 Lucia Tis-cor-nia, San-dra Ley, and Tiago Ven-tura. \OT1/cmr/bx/n/10.95 Crim-i-nal gov-er-nance amid the COVID-19
  []
 
-[3]
+
 Overfull \hbox (17.83276pt too wide) in paragraph at lines 284--285
 []\OT1/cmr/m/n/10.95 Calvo, Ernesto; Ti-m-o-neda, Joan; \OT1/cmr/bx/n/10.95 Ven-tura, Tiago\OT1/cmr/m/n/10.95 *, 2020. Big Re-la-tional Data: Network-Analytic
  []
 
 [4{/Users/tb186/Library/TinyTeX/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Overfull \hbox (0.54483pt too wide) in paragraph at lines 319--320
+Overfull \hbox (0.54483pt too wide) in paragraph at lines 315--316
 []\OT1/cmr/bx/n/10.95 2015 \OT1/cmr/m/n/10.95 - DAAD (Ger-man Aca-demic Ex-change Ser-vice) Fel-low-ship, Short-time re-search in Ger-many
  []
 
 
-Overfull \hbox (6.21437pt too wide) in paragraph at lines 343--344
+Overfull \hbox (6.21437pt too wide) in paragraph at lines 344--345
 []  \OT1/cmr/m/n/10.95 Com-pu-ta-tional and Ex-per-i-men-tal Lab in Po-lit-i-cal Sci-ence, Fed-eral Uni-ver-sity of Per-nam-buco. 
  []
 
 [5]
-Overfull \hbox (0.1207pt too wide) in paragraph at lines 425--426
+Overfull \hbox (0.1207pt too wide) in paragraph at lines 426--427
 \OT1/cmr/m/it/10.95 Elec-toral Stud-ies; Jour-nal-ism and Mass Com-mu-ni-ca-tion Quar-terly; Leg-isla-tive Stud-ies Quar-terly;
  []
 
 
-Overfull \hbox (20.22476pt too wide) in paragraph at lines 425--426
+Overfull \hbox (20.22476pt too wide) in paragraph at lines 426--427
 \OT1/cmr/m/it/10.95 The Com-mu-ni-ca-tion Re-view, In-for-ma-tion,Communication & So-ci-ety; Dig-i-tal Jour-nal-ism; Per-spec-tive
  []
 
 
-Overfull \hbox (1.8694pt too wide) in paragraph at lines 431--432
+Overfull \hbox (1.8694pt too wide) in paragraph at lines 432--433
 []\OT1/cmr/m/n/10.95 Search Com-mit-tee - As-sis-tant Pro-fes-sor in Com-pu-ta-tional So-cial Sci-ences, George-town`s Mc-Court
  []
 
@@ -348,18 +348,18 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8782 strings out of 476115
- 138212 string characters out of 5793316
+ 8779 strings out of 476115
+ 138172 string characters out of 5793316
  1940457 words of memory out of 5000000
- 30710 multiletter control sequences out of 15000+600000
- 564440 words of font info for 57 fonts, out of 8000000 for 9000
+ 30708 multiletter control sequences out of 15000+600000
+ 563835 words of font info for 55 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,8n,79p,595b,593s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/tb186/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/tb186/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/tb186/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></Users/tb186/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/tb186/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></Users/tb186/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></Users/tb186/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></Users/tb186/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/tb186/Library/TinyTeX/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></Users/tb186/Library/TinyTeX/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on cv.pdf (6 pages, 164397 bytes).
+Output written on cv.pdf (6 pages, 164437 bytes).
 PDF statistics:
- 196 PDF objects out of 1000 (max. 8388607)
- 166 compressed objects within 2 object streams
- 52 named destinations out of 1000 (max. 500000)
+ 195 PDF objects out of 1000 (max. 8388607)
+ 165 compressed objects within 2 object streams
+ 51 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

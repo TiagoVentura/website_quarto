@@ -28,9 +28,9 @@ Recent research has investigated how social media platforms may spread misinform
 </details>
 :::
 
-::: {.wip-entry}
 
 ::: {.wip-entry}
+
 ### Human-authored or AI-generated? Humans can usually tell the difference for political content on social media platforms
 
 ::: {.wip-status}
@@ -51,7 +51,6 @@ This study employs a set of behavioral experiments to examine how individuals pe
 :::
 
 ::: {.wip-entry}
-
 ### [The Relationship Between Offline Partisan Geographical Segregation and Online Partisan Segregation](https://arxiv.org/html/2512.07121v1){target="_blank"}
 
 ::: {.wip-status}
@@ -73,10 +72,11 @@ Social media is often blamed for the creation of echo chambers. However, these c
 </details>
 :::
 
+:::{.wip-entry}
 ### [The Partisan Effects of Social Media Bans](https://osf.io/preprints/socarxiv/4stfw_v1){target="_blank"}
 
 ::: {.wip-status}
-Under Review
+In Preparation
 :::
 
 ::: {.wip-authors}
@@ -88,6 +88,11 @@ Joint work with Christopher Barrie, Margaret E. Roberts, Christopher Schwarz, an
 :::
 
 - Presented at APSA 2025
+
+<details class="pub-abstract-toggle"><summary>Abstract</summary>
+What happens to information environments when democracies ban social mediaplatforms?  While a large literature examines information control under authoritarianism,democratic governments have increasingly intervened in major online platforms.  Westudy a prominent case: Brazil’s 2024 national ban on the social media platform X. Usingan event-study design, we estimate the causal effects of the ban and examine how partisanidentity shaped responses.  Drawing on a large sample of politically engaged users andideal-point estimates of ideology, we find strong partisan asymmetries.  Conservativeusers not aligned with the government were more likely to circumvent the ban, andright-leaning news domains became markedly more prevalent on the platform.  Wedescribe this dynamic as a “sorting ratchet”:  the ban segmented the digital publicsphere along partisan lines, with effects that persisted even after restrictions were lifted.Platform bans in democratic settings may therefore deepen polarization and durablyreshape information environments.
+</details>
+
 
 :::
 
