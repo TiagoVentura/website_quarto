@@ -26,10 +26,10 @@ More than half of the world's population uses social media. There is widespread 
 Autumn Toney-Wails, Leticia Bode, Tiago Ventura, Ethan Wilcox, and Lisa Singh.
 :::
 ::: {.pub-venue}
-Forthcoming at ACM Computing Surveys, 2026
+ACM Computing Surveys, 2026
 :::
 ::: {.pub-links}
-[PDF](){target="_blank"}
+[PDF](https://dl.acm.org/doi/10.1145/3806206){target="_blank"}
 :::
 <details class="pub-abstract-toggle"><summary>Abstract</summary>
 As chatbots have become more commonplace writing tools, a need exists to understand the breadth of research about the humanness
