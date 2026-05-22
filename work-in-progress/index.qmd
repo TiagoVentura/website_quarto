@@ -54,7 +54,7 @@ This study employs a set of behavioral experiments to examine how individuals pe
 ### [The Relationship Between Offline Partisan Geographical Segregation and Online Partisan Segregation](https://arxiv.org/html/2512.07121v1){target="_blank"}
 
 ::: {.wip-status}
-Under Review
+Revise & Resubmit, Nature Human Behavior
 :::
 
 ::: {.wip-authors}
