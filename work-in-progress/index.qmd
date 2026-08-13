@@ -33,7 +33,7 @@ Recent research has investigated how social media platforms may spread misinform
 ### [Human-authored or AI-generated? Humans show limited ability to tell the difference for political content on social media](../files/PVASBS_humaness_pnas.pdf){target="_blank"}
 
 ::: {.wip-status}
-Revise & Resubmit, PNAS
+Revise & Resubmit (2nd round), PNAS
 :::
 
 ::: {.wip-authors}
