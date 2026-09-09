@@ -88,7 +88,7 @@ Online panels are important for political science research, but panelist compens
 ::: {.pub-entry}
 ### Keep Your Promises, Even When Your Peers Do Not: A Survey Experiment on the Influence of Social Media on Trust
 ::: {.pub-authors}
-[Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, [Carlos Scartascini](https://www.cscartascini.org/){target="_blank"}, Tiago Ventura
+[Natalia Aruguete](https://scholar.google.com/citations?user=Yh3tHvYAAAAJ){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, [Carlos Scartascini](https://www.cscartascini.org/){target="_blank"}, Tiago Ventura
 :::
 ::: {.pub-venue}
 Journal of Information, Technology and Politics, 2025
@@ -106,7 +106,7 @@ Two survey experiments (~2,300 respondents each) in Brazil and Mexico measuring 
 ::: {.pub-entry}
 ### The Fact-Checking Dilemma: Fact-Checking Increases the Reputation of the Fact-Checker but Creates Perceptions of Ideological Bias
 ::: {.pub-authors}
-Tiago Ventura, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, [Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}
+Tiago Ventura, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, [Natalia Aruguete](https://scholar.google.com/citations?user=Yh3tHvYAAAAJ){target="_blank"}
 :::
 ::: {.pub-venue}
 Research & Politics, 2025
@@ -144,7 +144,7 @@ Examines the demand-and-supply dynamic of security policies via two informationa
 ::: {.pub-entry}
 ### Framing Fact-Checks as a "Confirmation" Increases Engagement with Corrections of Misinformation: A Four-Country Study
 ::: {.pub-authors}
-[Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}, Flavia Batista, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, Matias Guizzo-Altube, [Carlos Scartascini](https://www.cscartascini.org/){target="_blank"}, Tiago Ventura
+[Natalia Aruguete](https://scholar.google.com/citations?user=Yh3tHvYAAAAJ){target="_blank"}, Flavia Batista, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, Matias Guizzo-Altube, [Carlos Scartascini](https://www.cscartascini.org/){target="_blank"}, Tiago Ventura
 :::
 ::: {.pub-venue}
 Nature: Scientific Reports, 2024
@@ -162,7 +162,7 @@ Four-country survey experiment assessing the influence of confirmation/refutatio
 ::: {.pub-entry}
 ### Training Computational Social Science PhD Students for Academic and Non-Academic Careers
 ::: {.pub-authors}
-[Aniket Kesari](https://www.aniketkesari.com/){target="_blank"}, Jae Kim, [Sono Shah](https://www.sonoshah.com/){target="_blank"}, Taylor Brown, Tina Law, Tiago Ventura
+[Aniket Kesari](https://www.aniketkesari.com/){target="_blank"}, Jae Yeon Kim, [Sono Shah](https://www.sonoshah.com/){target="_blank"}, Taylor Brown, Tina Law, Tiago Ventura
 :::
 ::: {.pub-venue}
 PS: Political Science & Politics, 2023
@@ -179,7 +179,7 @@ A guide to CSS training for PhD students based on the literature and collective 
 ::: {.pub-entry}
 ### Truth Be Told: Cognitive Moderators of Selective Sharing of Fact-Checks on Social Media
 ::: {.pub-authors}
-[Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}, [Ingrid Bachmann](https://comunicaciones.uc.cl/facultad/personas/ingrid-bachmann-caceres/){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, Sebastian Valenzuela, Tiago Ventura
+[Natalia Aruguete](https://scholar.google.com/citations?user=Yh3tHvYAAAAJ){target="_blank"}, [Ingrid Bachmann](https://comunicaciones.uc.cl/facultad/personas/ingrid-bachmann-caceres/){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, Sebastian Valenzuela, Tiago Ventura
 :::
 ::: {.pub-venue}
 New Media & Society, 2023
@@ -196,10 +196,10 @@ Survey experiment (2019 Argentina election) measuring the propensity to share co
 ::: {.pub-entry}
 ### Winning! Election Returns and Engagement in Social Media
 ::: {.pub-authors}
-Tiago Ventura, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, [Silvio Waisbord](https://smpa.gwu.edu/silvio-waisbord){target="_blank"}, [Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}
+Tiago Ventura, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, [Silvio Waisbord](https://smpa.gwu.edu/silvio-waisbord){target="_blank"}, [Natalia Aruguete](https://scholar.google.com/citations?user=Yh3tHvYAAAAJ){target="_blank"}
 :::
 ::: {.pub-venue}
-PLOS One, 2023
+PLOS ONE, 2023
 :::
 ::: {.pub-links}
 [PDF](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281475){target="_blank"}
@@ -214,7 +214,7 @@ Analyzes social media engagement when elections are adjudicated to one contendin
 ::: {.pub-entry}
 ### Network Activated Frames: Content Sharing and Perceived Polarization in Social Media
 ::: {.pub-authors}
-[Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, Tiago Ventura
+[Natalia Aruguete](https://scholar.google.com/citations?user=Yh3tHvYAAAAJ){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, Tiago Ventura
 :::
 ::: {.pub-venue}
 Journal of Communication, 2022
@@ -231,7 +231,7 @@ Describes how the sharing behavior of interconnected users alters the content fr
 ::: {.pub-entry}
 ### News by Popular Demand: Ideology, Reputation, and Issue Attention in Social Media News Sharing
 ::: {.pub-authors}
-[Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, Tiago Ventura
+[Natalia Aruguete](https://scholar.google.com/citations?user=Yh3tHvYAAAAJ){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, Tiago Ventura
 :::
 ::: {.pub-venue}
 International Journal of Press/Politics, 2021
@@ -285,7 +285,7 @@ Examines large samples of comments in social chat feeds during livestreamed 2020
 ::: {.pub-entry}
 ### Partisan Cues and Perceived Risks: The Effect of Partisan Social Media Frames During the Covid-19 Crisis in Mexico
 ::: {.pub-authors}
-[Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, [Francisco Cantu](https://franciscocantu.github.io/){target="_blank"}, [Sandra Ley](https://sandraley.net/){target="_blank"}, [Carlos Scartascini](https://www.cscartascini.org/){target="_blank"}, Tiago Ventura
+[Natalia Aruguete](https://scholar.google.com/citations?user=Yh3tHvYAAAAJ){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, [Francisco Cantu](https://franciscocantu.github.io/){target="_blank"}, [Sandra Ley](https://sandraley.net/){target="_blank"}, [Carlos Scartascini](https://www.cscartascini.org/){target="_blank"}, Tiago Ventura
 :::
 ::: {.pub-venue}
 Journal of Elections, Public Opinion and Parties, 2021
@@ -306,7 +306,7 @@ Survey experiment evaluating effects of social media exposure on health and job 
 Tiago Ventura
 :::
 ::: {.pub-venue}
-Electoral Studies, 2020
+Electoral Studies, 2021
 :::
 ::: {.pub-links}
 [PDF](https://www.sciencedirect.com/science/article/pii/S0261379420301219?dgcid=author){target="_blank"}
@@ -327,7 +327,7 @@ In federal democracies, parties invest in local politics to improve upper-level 
 [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, Tiago Ventura
 :::
 ::: {.pub-venue}
-Latin America Politics and Society, 2020
+Latin American Politics and Society, 2021
 :::
 ::: {.pub-links}
 [Pre-Registration](https://osf.io/gjcvn/){target="_blank"}
@@ -342,7 +342,7 @@ Survey with embedded social media experiment during the early COVID-19 pandemic 
 ::: {.pub-entry}
 ### Polarization, News Sharing, and Gatekeeping: A Study of the Bolsonaro Election
 ::: {.pub-authors}
-[Natalia Aruguete](https://scholar.google.com/citations?user=rBKBOHkAAAAJ){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, Tiago Ventura
+[Natalia Aruguete](https://scholar.google.com/citations?user=Yh3tHvYAAAAJ){target="_blank"}, [Ernesto Calvo](https://gvpt.umd.edu/facultyprofile/calvo/ernesto){target="_blank"}, Tiago Ventura
 :::
 ::: {.pub-venue}
 Digital Journalism, 2020

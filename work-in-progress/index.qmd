@@ -18,7 +18,7 @@ Joint work with Rajeshwari Majumdar, Shelley Liu, Carolina Torreblanco, and Josh
 :::
 
 ::: {.pub-award}
-Winner, 2025 MPSA Best Paper Award in Political Behavior
+Winner, 2026 MPSA Best Paper Award in Political Behavior
 :::
 
 - Presented at APSA 2024
@@ -53,7 +53,7 @@ This study employs a set of behavioral experiments to examine how individuals pe
 ### [The Relationship Between Offline Partisan Geographical Segregation and Online Partisan Segregation](https://arxiv.org/html/2512.07121v1){target="_blank"}
 
 ::: {.wip-status}
-Revise & Resubmit, Nature Human Behavior
+Revise & Resubmit, Nature Human Behaviour
 :::
 
 ::: {.wip-authors}
@@ -124,7 +124,7 @@ In preparation
 :::
 
 ::: {.wip-authors}
-Joint work with Jim Bisbbe, Sarah Graham and Joshua A. Tucker.
+Joint work with Jim Bisbee, Sarah Graham and Joshua A. Tucker.
 :::
 
 ::: {.pub-links}
